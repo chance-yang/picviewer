@@ -1,0 +1,3 @@
+rootProject.name='PictureViewer'
+include ':app'
+include ':picviewerlib'
